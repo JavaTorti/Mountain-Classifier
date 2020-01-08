@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://drive.google.com/uc?export=download&id=1tOxfuMP5HEZQXd7ntXXTVRNF_Nf694S6'
+model_file_url = 'https://drive.google.com/uc?export=download&id=1rutlOvdQr1KIBa-pP5r1J_kalbJkpXIp'
 model_file_name = 'model'
 classes = ['watzmann', 'zugspitze', 'wendelstein']
 path = Path(__file__).parent
